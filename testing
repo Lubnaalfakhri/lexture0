@@ -7,5 +7,7 @@
   </Style>
       <title>first git page</title>
   </head>
-  <body><p>my first git file</p></body>
+  <body>
+        <p>my first git file. I changed the text colour</p>
+  </body>
 </html>
